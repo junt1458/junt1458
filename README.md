@@ -20,6 +20,7 @@ I'm Junki, who is student at National Institute of Technology, Gifu College.
 
 ## My Works
 - [nit-gifu-gis/boar-map](https://github.com/nit-gifu-gis/boar-map): Wild boar research system for Gifu prefecture. (My main research project)
+- [sgrp-intern](https://github.com/junt1458/sgrp-intern): International Internship Management System for school. (Singapore Internship Assignment)
 - [price_checker_frontend](https://github.com/junt1458/price_checker_frontend): Monitoring E-commerce site pricing and notice price drops to user. (TECHCAFE Nagoya Hackathon)
 - [4E-bbs](https://github.com/junt1458/4E-bbs): Simple bulletin board system (4th-grade(2021) class assignment)
 - [handsfree-box](https://github.com/junt1458/handsfree-box): Touch-less interactive delivery box system with e-locks. (3rd-grade(2020) experiment assginment)
