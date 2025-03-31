@@ -3,7 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junt1458&theme=monokai)
 
 ### Hi there👋
-I'm Junki, who is student at National Institute of Technology, Gifu College.
+I'm Junki. I'm currently working as an Networking Infrastracture Engineer.
 
 🌱 I’m currently learning Unity  
 🍼 I'm interested in IT infrastructure (networking)
